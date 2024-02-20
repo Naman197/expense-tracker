@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "first",
+    "slug": "first",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "325829ea-d9e6-4db7-b1ea-6def496995e7"
+      }
+    }
+  }
+}
