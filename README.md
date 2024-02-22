@@ -18,4 +18,12 @@ Utilized React forms for capturing insight information and utilized Axios for ha
 Employed Redux for centralized state management, including managing insight-related data such as likes count.
 
 # screenshots
-![Alt text](screenshots/login.jpeg)
+<div style="display: flex;">
+    <img src="screenshots/profile.jpeg" alt="Screenshot 1" style="width: 50%;">
+    <img src="screenshots/stats.jpeg" alt="Screenshot 2" style="width: 50%;">
+    <img src="screenshots/login.jpeg" alt="Screenshot 2" style="width: 50%;">
+    <img src="screenshots/profile.jpeg" alt="Screenshot 2" style="width: 50%;">
+    <img src="screenshots/home.jpeg" alt="Screenshot 2" style="width: 50%;">
+</div>
+
+
