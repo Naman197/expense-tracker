@@ -1,4 +1,4 @@
-#Features
+# Features
 1. RESTful API Endpoints
 Implemented RESTful API endpoints for CRUD (Create, Read, Update, Delete) operations on user profiles and expense records, ensuring efficient data management and interaction with the application.
 
@@ -17,4 +17,4 @@ Utilized React forms for capturing insight information and utilized Axios for ha
 6. Centralized State Management with Redux
 Employed Redux for centralized state management, including managing insight-related data such as likes count.
 
-#screenshots
+# screenshots
